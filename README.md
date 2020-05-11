@@ -6,6 +6,9 @@ Implementation includes:
 1. Class-incremental Learning via Deep Model Consolidation (WACV2020)
 ## Code
 
+## Notice!!
+If you want to run this code, you need to prepare auxilary data mentioned at the paper.
+
 ### Requirements
 - python 3.6+
 - cuda 9.0+
